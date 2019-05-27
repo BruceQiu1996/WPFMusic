@@ -1,0 +1,17 @@
+D:\C#练习\qqMusic\QQMusic\bin\Debug\QQMusic.exe.config
+D:\C#练习\qqMusic\QQMusic\bin\Debug\QQMusic.exe
+D:\C#练习\qqMusic\QQMusic\bin\Debug\QQMusic.pdb
+D:\C#练习\qqMusic\QQMusic\obj\Debug\QQMusic.csprojAssemblyReference.cache
+D:\C#练习\qqMusic\QQMusic\obj\Debug\MainWindow.g.cs
+D:\C#练习\qqMusic\QQMusic\obj\Debug\App.g.cs
+D:\C#练习\qqMusic\QQMusic\obj\Debug\QQMusic_MarkupCompile.cache
+D:\C#练习\qqMusic\QQMusic\obj\Debug\QQMusic_MarkupCompile.lref
+D:\C#练习\qqMusic\QQMusic\obj\Debug\App.baml
+D:\C#练习\qqMusic\QQMusic\obj\Debug\MainRecource.baml
+D:\C#练习\qqMusic\QQMusic\obj\Debug\MainWindow.baml
+D:\C#练习\qqMusic\QQMusic\obj\Debug\QQMusic.g.resources
+D:\C#练习\qqMusic\QQMusic\obj\Debug\QQMusic.Properties.Resources.resources
+D:\C#练习\qqMusic\QQMusic\obj\Debug\QQMusic.csproj.GenerateResource.cache
+D:\C#练习\qqMusic\QQMusic\obj\Debug\QQMusic.csproj.CoreCompileInputs.cache
+D:\C#练习\qqMusic\QQMusic\obj\Debug\QQMusic.exe
+D:\C#练习\qqMusic\QQMusic\obj\Debug\QQMusic.pdb
